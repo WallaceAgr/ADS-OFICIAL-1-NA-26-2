@@ -1,4 +1,4 @@
 
 const nome = "Wallace"
 
-console.log(`Ola ${nome}`)dihnfoiubfodk
+console.log(`Ola ${nome}`)
